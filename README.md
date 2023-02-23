@@ -1,0 +1,2 @@
+# doc.doctrize
+Doctrize documentation
